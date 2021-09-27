@@ -11,3 +11,10 @@ else:
         print("Game Over! the river is full of crocodiles")
     else:
         door = input("You have arrived at a room. There are three doors red,blue and yellow type red, blue or red")
+        door_choice = door.lower()
+        if door_choice == 'red':
+            print("there's fire in the room! Game Over")
+        elif door_choice == 'blue':
+            print("there's a snake. Game over")
+        else:
+            print("You have found the treasure you have won!!")
