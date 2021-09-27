@@ -1,1 +1,1 @@
-prin
+print("Welcome to the treasure island")
