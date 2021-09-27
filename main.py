@@ -10,4 +10,4 @@ else:
     if river_choice == 'swim':
         print("Game Over! the river is full of crocodiles")
     else:
-        
+        door = input("You have arrived at a room. There are three doors red,blue and yellow type red, blue or red")
