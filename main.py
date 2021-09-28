@@ -10,7 +10,7 @@ print("| | | ________| | __|____ | | | __| |")
 print("|_| |__ |   | __|__ | ____| | |_| __|")
 print("|   ____| | |____ | |__ |   |__ |__ |")
 print("| |_______|_______|___|___|___|_____|")
-print("Welcome to the treasure island \nYour mission is to find the treasure" :)
+print("Welcome to the treasure island \nYour mission is to find the treasure: " )
 crossroad = input("You're at a cross road. Where do you want to go? Type 'left' or 'right' :")
 cross_road = crossroad.lower()
 
